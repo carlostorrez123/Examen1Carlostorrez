@@ -1,0 +1,17 @@
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.BSS\bin\Debug\net6.0\Empleado.BSS.deps.json
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.BSS\bin\Debug\net6.0\Empleado.BSS.dll
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.BSS\bin\Debug\net6.0\Empleado.BSS.pdb
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.BSS\bin\Debug\net6.0\Empleado.DAL.dll
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.BSS\bin\Debug\net6.0\Empleado.Modelos.dll
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.BSS\bin\Debug\net6.0\Empleado.DAL.pdb
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.BSS\bin\Debug\net6.0\Empleado.Modelos.pdb
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.BSS\obj\Debug\net6.0\Empleado.BSS.csproj.AssemblyReference.cache
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.BSS\obj\Debug\net6.0\Empleado.BSS.GeneratedMSBuildEditorConfig.editorconfig
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.BSS\obj\Debug\net6.0\Empleado.BSS.AssemblyInfoInputs.cache
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.BSS\obj\Debug\net6.0\Empleado.BSS.AssemblyInfo.cs
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.BSS\obj\Debug\net6.0\Empleado.BSS.csproj.CoreCompileInputs.cache
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.BSS\obj\Debug\net6.0\Empleado.BSS.csproj.CopyComplete
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.BSS\obj\Debug\net6.0\Empleado.BSS.dll
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.BSS\obj\Debug\net6.0\refint\Empleado.BSS.dll
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.BSS\obj\Debug\net6.0\Empleado.BSS.pdb
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.BSS\obj\Debug\net6.0\ref\Empleado.BSS.dll

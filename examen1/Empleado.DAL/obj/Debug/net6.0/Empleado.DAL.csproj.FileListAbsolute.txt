@@ -1,0 +1,12 @@
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.DAL\bin\Debug\net6.0\Empleado.DAL.deps.json
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.DAL\bin\Debug\net6.0\Empleado.DAL.dll
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.DAL\bin\Debug\net6.0\Empleado.DAL.pdb
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.DAL\obj\Debug\net6.0\Empleado.DAL.csproj.AssemblyReference.cache
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.DAL\obj\Debug\net6.0\Empleado.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.DAL\obj\Debug\net6.0\Empleado.DAL.AssemblyInfoInputs.cache
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.DAL\obj\Debug\net6.0\Empleado.DAL.AssemblyInfo.cs
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.DAL\obj\Debug\net6.0\Empleado.DAL.csproj.CoreCompileInputs.cache
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.DAL\obj\Debug\net6.0\Empleado.DAL.dll
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.DAL\obj\Debug\net6.0\refint\Empleado.DAL.dll
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.DAL\obj\Debug\net6.0\Empleado.DAL.pdb
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.DAL\obj\Debug\net6.0\ref\Empleado.DAL.dll

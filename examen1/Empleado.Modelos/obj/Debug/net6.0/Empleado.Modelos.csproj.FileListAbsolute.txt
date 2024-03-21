@@ -1,0 +1,11 @@
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.Modelos\bin\Debug\net6.0\Empleado.Modelos.deps.json
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.Modelos\bin\Debug\net6.0\Empleado.Modelos.dll
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.Modelos\bin\Debug\net6.0\Empleado.Modelos.pdb
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.Modelos\obj\Debug\net6.0\Empleado.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.Modelos\obj\Debug\net6.0\Empleado.Modelos.AssemblyInfoInputs.cache
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.Modelos\obj\Debug\net6.0\Empleado.Modelos.AssemblyInfo.cs
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.Modelos\obj\Debug\net6.0\Empleado.Modelos.csproj.CoreCompileInputs.cache
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.Modelos\obj\Debug\net6.0\Empleado.Modelos.dll
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.Modelos\obj\Debug\net6.0\refint\Empleado.Modelos.dll
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.Modelos\obj\Debug\net6.0\Empleado.Modelos.pdb
+D:\examen1carlos\Examen1Carlostorrez\examen1\Empleado.Modelos\obj\Debug\net6.0\ref\Empleado.Modelos.dll
